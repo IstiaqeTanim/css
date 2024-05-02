@@ -1,0 +1,46 @@
+h1{
+	color: Red;
+	text-align: center;
+}
+.intro{
+	background-color: darkgray;
+	font-size: 20px;
+	color: green;
+}
+.inter{
+	color: red;
+}
+.internal{
+	font-size: 30px;
+}
+#firstname{
+	color: red;
+	background-color: seashell;
+}
+*{
+	background-color: lightsteelblue;
+}
+h3{
+	color: deeppink;
+	font-size: 25px;
+	border: 2px dotted greenyellow;
+}
+div, .text1{
+	color: indianred;
+	font-size: 25px;
+}
+div, h6{
+	color: red;
+	font-size: 20px;
+	background-color: lightgoldenrodyellow;
+}
+p~ul{
+	background: #ff0000
+}
+
+a[target] {
+  background-color: yellow;
+}
+a[target="_blank"] {
+  background-color: hotpink;
+}

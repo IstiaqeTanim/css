@@ -1,0 +1,37 @@
+h1{
+	color: darkgray;
+}
+.text1{
+	color: mediumvioletred;
+	border: 1px solid indianred;
+}
+.bg_y{
+	background-color: seashell;
+}
+#name{
+	font-size: 30px;
+	color: red;
+}
+.text h2{
+	color: indianred;
+	height: 200px;
+	border: 2px solid seashell;
+	float: right;
+	background-color: lightyellow;
+	width: 50%;
+	align-items: center;
+	text-align: right;
+}
+.box h3{
+	width: 40%;
+	height: 300px;
+	background-color: rgba(00,00,00,.1);
+	color: green;
+	text-align: center;
+	display: block;
+	font-size: 30px;
+}
+ a{
+ 	color: mediumvioletred;
+ 	font-size: 25px;
+ }
